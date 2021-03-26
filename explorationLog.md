@@ -1,6 +1,11 @@
 
 
-start at 
+start at
+
+with connect codeship with gitHub Acc. = ok
+
+
+begin realy at
 [pflegende/exploreCodeship](https://app.codeship.com/projects/436549/tests/edit)
 
 codeship says:
@@ -36,3 +41,16 @@ ___so we do the "+" and name the pipeline-field:___
 
 *exploreCodeshipPythonV01*
 
+### codeship replies:
+```
+Test settings saved!
+
+Update README.md link to explorationLog added
+
+ pflegende •master•7c26d22• 2 minutes ago • 00:41
+SUCCEEDED
+1st step codeship exploration this is it
+
+ pflegende •master•8465ef0• 3 minutes ago • 00:50
+SUCCEEDED
+```
